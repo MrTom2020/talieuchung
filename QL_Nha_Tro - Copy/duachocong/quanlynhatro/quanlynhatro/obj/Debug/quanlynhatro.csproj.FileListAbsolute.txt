@@ -1,0 +1,11 @@
+E:\duachocong\quanlynhatro\quanlynhatro\bin\Debug\quanlynhatro.exe.config
+E:\duachocong\quanlynhatro\quanlynhatro\bin\Debug\quanlynhatro.exe
+E:\duachocong\quanlynhatro\quanlynhatro\bin\Debug\quanlynhatro.pdb
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.csprojAssemblyReference.cache
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.Form1.resources
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.Properties.Resources.resources
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.csproj.GenerateResource.cache
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.csproj.CoreCompileInputs.cache
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.exe
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.pdb
+E:\duachocong\quanlynhatro\quanlynhatro\obj\Debug\quanlynhatro.QLchitieucs.resources

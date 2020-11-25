@@ -1,0 +1,88 @@
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe.config
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.pdb
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csprojAssemblyReference.cache
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Properties.Resources.resources
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLNT.resources
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Thu_tien_phong.resources
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.GenerateResource.cache
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CoreCompileInputs.cache
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.exe
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.pdb
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.DK.resources
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QL_TB.resources
+D:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\quanlynhatro.Form1.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe.config
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.pdb
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csprojAssemblyReference.cache
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.DK.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Form1.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Properties.Resources.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLchitieucs.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLNT.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QL_TB.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Thu_tien_phong.resources
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.GenerateResource.cache
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CoreCompileInputs.cache
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.exe
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.pdb
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.dll
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.SqlServer.dll
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.xml
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.SqlServer.xml
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CopyComplete
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\Database1.mdf
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\Database1_log.ldf
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\ql_nha_tro_2.mdf
+E:\HKII_Nam_2\Windown_Form\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\ql_nha_tro_2_log.ldf
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\Database1.mdf
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\Database1_log.ldf
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\ql_nha_tro_2.mdf
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\ql_nha_tro_2_log.ldf
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe.config
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.pdb
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.DK.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Form1.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Properties.Resources.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLchitieucs.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLNT.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QL_TB.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Thu_tien_phong.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CopyComplete
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.exe
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.pdb
+C:\Users\DELL\Desktop\QL_Nha_Tro\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Quan_phong_tro.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\Database1.mdf
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\Database1_log.ldf
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\ql_nha_tro_2.mdf
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\ql_nha_tro_2_log.ldf
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe.config
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.exe
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\QL_Nha_Tro.pdb
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.DK.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Form1.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Properties.Resources.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLchitieucs.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QLNT.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.QL_TB.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Quan_phong_tro.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.Thu_tien_phong.resources
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.csproj.CopyComplete
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.exe
+C:\Users\DELL\Desktop\QL_Nha_Tro - Copy\QL_Nha_Tro\obj\Debug\QL_Nha_Tro.pdb

@@ -1,0 +1,16 @@
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\bin\Debug\QL_KHACHSAN.mdf
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\bin\Debug\QL_KHACHSAN_log.ldf
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\bin\Debug\QL_KHACHSAN.exe.config
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\bin\Debug\QL_KHACHSAN.exe
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\bin\Debug\QL_KHACHSAN.pdb
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.csprojAssemblyReference.cache
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.Form1.resources
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.Properties.Resources.resources
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.csproj.GenerateResource.cache
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.exe
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.pdb
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.frmDSPHONG.resources
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.frmDSNHANVIEN.resources
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.frmDSKHACHHANG.resources
+C:\Users\DTC\Desktop\báo cáo winform\QL_KHACHSAN\obj\Debug\QL_KHACHSAN.frmHOADON.resources
